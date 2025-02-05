@@ -1,4 +1,4 @@
-A simple Hangman Game built using HTML,CSS and Javascript.This project was created for practice  to improve and understand web development.
+A simple Hangman Game built using HTML,CSS and Javascript.This project was created for practice exercise to improve and understand web development.
  
  ##Features
 - Interactive Hangman game
